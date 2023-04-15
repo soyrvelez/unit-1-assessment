@@ -107,9 +107,9 @@ When the mouse is over the "+" or "-" button, the button should reverse its back
 
 Congrats, that's all there is to it!
 
-### `4` Deploy to GitHub Pages (25 minutes)
+### `4` Deploy to Netlify Pages (25 minutes)
 
-Please follow the steps from the in-class lesson to deploy to Github Pages.
+Please follow the steps from the in-class lesson to deploy to Netlify.
 
 **Slack the deployed app's link to your instructors - congrats, you are done!**
 
