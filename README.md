@@ -54,15 +54,15 @@ Please follow the following steps in order:
 - **STEP 1 - Prepare** (&asymp; 15 minutes)
 - **STEP 2 - Set Up the App** (&asymp; 15 minutes)
 - **STEP 3 - Implement the App's Requirements** (&asymp; 120 minutes)
-- **STEP 4 - Deploy to GitHub Pages** (&asymp; 25 minutes)
-- **STEP 5 - Bonus**
+- **STEP 4 - Deploy to GitHub Pages** (&asymp; 10 minutes)
+- **STEP 5 - Bonus (remaining time)**
 
 **The times above are just estimated guidelines.**
 
 ## Assessment Steps to Complete
 
 ### `1` Prepare (15 minutes)
-
+ 
 Briefly read through the rest of this assignment to better understand what is required before starting to code.
 
 ### `2` - Set Up the App (15 minutes)
@@ -107,17 +107,19 @@ When the mouse is over the "+" or "-" button, the button should reverse its back
 
 Congrats, that's all there is to it!
 
-### `4` Deploy to Netlify Pages (25 minutes)
+### `4` Deploy to Github Pages (10 minutes)
 
-Please follow the steps from the in-class lesson to deploy to Netlify.
+Please follow the steps from the in-class lesson to deploy to Github.
 
 **Slack the deployed app's link to your instructors - congrats, you are done!**
 
 ### `5` Bonus: Add Red to Negative Numbers
 
-As a bonus, display the count in red if it is a negative value!
-
 <img src="https://i.imgur.com/LCSG1Wg.png">
+
+### `5` Bonus: Create The Same Going From Letters `A` to `Z`
+
+- [ ] Use the same strategy as before
 
 ## Hints
 
